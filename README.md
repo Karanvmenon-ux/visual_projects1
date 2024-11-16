@@ -1,1 +1,1 @@
-# visual_projects1
+# Data Analysis and Visualization Projects
